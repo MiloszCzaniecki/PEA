@@ -1,6 +1,8 @@
 # PEA_Zad1
 Projektowanie Efektywnych algorytmów PWR
+
 Effective Algorithm Design WUST
+
 Творјење Ефективних алгоритмов ПВР
 
 Wykorzystane w projekcie algorytmy:
